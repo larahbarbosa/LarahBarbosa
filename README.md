@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center">Hi there! I'm <a href="https://www.linkedin.com/in/larahbarbosa/">Larissa Barbosa</a>👩‍💻</h1>
+  <h1 align="center">Hi there! I'm Larissa Barbosa.</h1>
   <p align="center">Here I put my code trainings and more than a portfolio I use github to save my studies!
   </a><br>
 </div>
