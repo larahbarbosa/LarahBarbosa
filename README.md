@@ -32,6 +32,8 @@
   
 </div><br>
 
+[![larahbarbosa's github activity graph](https://activity-graph.herokuapp.com/graph?username=larahbarbosa&theme=redical)](https://github.com/larahbarbosa/github-readme-activity-graph)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/larahbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:laracontato20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
