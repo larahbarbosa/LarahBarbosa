@@ -8,7 +8,7 @@
   <p align="left">✦ 🛠 Studying front-end development and software testing.
   </a><br>
   <p align="left">✦ 📍 Quality Assurance Intern at Sanar.
-  </a><br>
+  </a><br><br>
 </div>
 
 
