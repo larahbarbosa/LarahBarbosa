@@ -1,7 +1,13 @@
 
 <div>
-  <h1 align="center">Hi there! I'm Larissa Barbosa.</h1>
-  <p align="center">Here I put my code trainings and more than a portfolio I use github to save my studies!
+  <h1 align="left">Hi there! I'm Larissa Barbosa.</h1>
+  <p align="left">🤘🏻 Here I put my code trainings and more than a portfolio I use github to save my studies!
+  </a><br>
+  <p align="left">✦ 💡 Software Engineering student focused on Quality Engineering.
+  </a><br>
+  <p align="left">✦ 🛠 Studying front-end development and software testing.
+  </a><br>
+  <p align="left">✦ 📍 Quality Assurance Intern at Sanar.
   </a><br>
 </div>
 
