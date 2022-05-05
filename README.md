@@ -10,13 +10,17 @@
   <p align="left">✦ 📍 Quality Assurance Intern at Sanar.
   </a><br><br>
 </div>
-
-
+<div align="center">
+  <a href="https://github.com/larahbarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larahbarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larahbarbosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<!----
 <div align="center">
   <a href="https://github.com/larahbarbosa/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larahbarbosa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larahbarbosa&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  </a>------->
 </div>
 
 <div align="center" valign="top"><br>
@@ -52,8 +56,8 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <!--------
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)--->
   
 </div>
 
